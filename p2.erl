@@ -1,4 +1,6 @@
--module(taskOne).
+%team("edlyn jeyaraj, yueen ma, thomas kung")
+
+-module(p1).
 -export([taskOne/0, factorial/1]).
 
 taskOne() ->
